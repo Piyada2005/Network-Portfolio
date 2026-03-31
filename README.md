@@ -38,7 +38,9 @@ This repository contains my assignments, labs, projects, and certificates relate
 
 ##  Final Project
 
-[คลิกดูโปรเจค](https://drive.google.com/drive/folders/ลิงก์ของคุณ)
+Drive :(https://drive.google.com/drive/folders/1JaiOpJeRT33JaBn1Av1e7NAkkaVtYpW-)
+Github :
+NotebookLM :
 
 ---
 
