@@ -51,7 +51,7 @@ NotebookLM : https://drive.google.com/file/d/1Jv6cPz3VDy1CSE2DuV496YV98Uiuj3_O/v
 </p>
 
 <p align="center">
-  <img src="Getting_Started.pdf" width="500">
+  <img src="CCNA_Introduction.pdf" width="500">
 </p>
 
 ---
