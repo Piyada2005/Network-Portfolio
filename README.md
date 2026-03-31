@@ -38,9 +38,9 @@ This repository contains my assignments, labs, projects, and certificates relate
 
 ##  Final Project
 
-Drive :(https://drive.google.com/drive/folders/1JaiOpJeRT33JaBn1Av1e7NAkkaVtYpW-)
-Github :
-NotebookLM :
+Drive :https://drive.google.com/drive/folders/1JaiOpJeRT33JaBn1Av1e7NAkkaVtYpW- <br>
+Github : <br>
+NotebookLM : <br>
 
 ---
 
