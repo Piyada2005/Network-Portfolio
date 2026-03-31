@@ -7,7 +7,7 @@ Email : piyada.ke@kkumail.com
 
 ---
 
-## Portfolio – Networks
+## 🖥️ Portfolio – Networks
 
 This repository contains my assignments, labs, projects, and certificates related to Computer Networks and Network Programming.  
 
@@ -24,7 +24,7 @@ This repository contains my assignments, labs, projects, and certificates relate
 
 ---
 
-## Group Activities (LAB1-5)
+## 👥 Group Activities (LAB1-5)
 
 | LAB | Document Link |
 |-----------|-------------|
@@ -36,7 +36,7 @@ This repository contains my assignments, labs, projects, and certificates relate
 
 ---
 
-##  Final Project
+## 🚀 Final Project
 
 Drive : https://drive.google.com/drive/folders/1JaiOpJeRT33JaBn1Av1e7NAkkaVtYpW- <br>
 Github : https://github.com/jrKitt/HapticNetwork <br>
@@ -44,11 +44,11 @@ NotebookLM : https://drive.google.com/file/d/1Jv6cPz3VDy1CSE2DuV496YV98Uiuj3_O/v
 
 ---
 
-##  Certificate
+## 🏆 Certificate
 
 
 ---
 
-##  Network Programming (Week 1–10)
+## 📚 Network Programming (Week 1–10)
 
 
