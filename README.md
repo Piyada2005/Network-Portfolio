@@ -46,12 +46,9 @@ NotebookLM : https://drive.google.com/file/d/1Jv6cPz3VDy1CSE2DuV496YV98Uiuj3_O/v
 
 ## 🏆 Certificate
 
-## 📜 Certificate
-
 <p align="center">
   <img src="Getting_Started_with_Cisco_Packet_Tracer_certificate_piyada-ke-kkumail-com_2f4474bb-b291-4307-aa11-1c4bbe48aa82.pdf" width="500">
 </p>
-
 
 ---
 
