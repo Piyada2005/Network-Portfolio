@@ -47,11 +47,11 @@ NotebookLM : https://drive.google.com/file/d/1Jv6cPz3VDy1CSE2DuV496YV98Uiuj3_O/v
 ## 🏆 Certificate
 
 <p align="center">
-  <img src="Getting_Started.pdf" width="500">
+  <img src="cc.png" width="500">
 </p>
 
 <p align="center">
-  <img src="CCNA_Introduction.pdf" width="500">
+  <img src="cs.png" width="500">
 </p>
 
 ---
