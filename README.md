@@ -29,9 +29,9 @@ This repository contains my assignments, labs, projects, and certificates relate
 | LAB | Document Link |
 |-----------|-------------|
 | Lab 1 | [View](https://docs.google.com/document/d/1LTyeTCxfYjoqUJnsBHURvWGh1Y410z-8Ah7sDqklG1c/edit?usp=sharing)|
-| Lab 2 | [View](https://docs.google.com/document/d/1-7K-nVBaNkjMdQBkKsCtf3JXqbWWZO79Eger39zE054/edit?usp=sharing)|
-| Lab 3 | [View](https://drive.google.com/file/d/1PUrBnlwaCiw9lw3CGRALFMoLliA5oR7e/view?usp=share_link)|
-| Lab 4 | [View](https://docs.google.com/document/d/13O0Kimx4ixeqp_3NAyYCB0l4FPN4YCe6wTmDuIsD5o8/edit?usp=sharing)|
+| Lab 2 | [View](https://docs.google.com/document/d/1BMCTrAFfA2mMvrydhwGSf1R466rwE9007YExsYK6FT8/edit?usp=sharing)|
+| Lab 3 | [View](https://docs.google.com/document/d/1ay9XhTljggX9RlXcrCvseNOeFKb2ts6Vrp4NaN4QIF8/edit?usp=sharing)|
+| Lab 4 | [View](https://docs.google.com/document/d/1MURDTx2FsTknknAwdjMUKIodGjyuBXNKRkQBv0g-u0M/edit?usp=sharing)|
 
 
 ---
