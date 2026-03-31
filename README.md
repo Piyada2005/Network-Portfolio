@@ -1,17 +1,15 @@
 # Network-Portfolio
 
-ชื่อ : นางสาวพิยดา เกษมาลา
-รหัสนักศึกษา : 673380052-5
-Section : 2
-Email : piyada.ke@kkumail.com  
+ชื่อ : นางสาวพิยดา เกษมาลา<br>
+รหัสนักศึกษา : 673380052-5<br>
+Section : 2<br>
+Email : piyada.ke@kkumail.com
 
 ---
 
-## 🔗 สารบัญ
+## Portfolio – Networks
 
-1. Personal Assignment  
-2. Network Portfolio  
-3. Final Project  
+This repository contains my assignments, labs, projects, and certificates related to Computer Networks and Network Programming.  
 
 ---
 
@@ -22,6 +20,7 @@ Email : piyada.ke@kkumail.com
 | Essay | [View](ลิงก์งาน1) |
 | Assignment 2 (Topology) | [View](ลิงก์งาน2) |
 | Assignment 3 (Not Simple) | [View](ลิงก์งาน3) |
+| Assignment 4 (TCP-UDP) | [View](ลิงก์งาน3) |
 
 ---
 
