@@ -38,9 +38,9 @@ This repository contains my assignments, labs, projects, and certificates relate
 
 ##  Final Project
 
-Drive :https://drive.google.com/drive/folders/1JaiOpJeRT33JaBn1Av1e7NAkkaVtYpW- <br>
-Github : <br>
-NotebookLM : <br>
+Drive : https://drive.google.com/drive/folders/1JaiOpJeRT33JaBn1Av1e7NAkkaVtYpW- <br>
+Github : https://github.com/jrKitt/HapticNetwork <br>
+NotebookLM : https://drive.google.com/file/d/1Jv6cPz3VDy1CSE2DuV496YV98Uiuj3_O/view <br>
 
 ---
 
