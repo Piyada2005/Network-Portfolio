@@ -17,7 +17,7 @@ This repository contains my assignments, labs, projects, and certificates relate
 
 | Assignment | Document Link |
 |-----------|-------------|
-| Essay | [View]([ลิงก์งาน1](https://docs.google.com/document/d/1-39_YHbI9JiT-8CinX5KXOZvBLZ4_k2YPCnI9h8hxrg/edit?usp=sharing)) |
+| Essay | [View](https://docs.google.com/document/d/1-39_YHbI9JiT-8CinX5KXOZvBLZ4_k2YPCnI9h8hxrg/edit?usp=sharing) |
 | Assignment 2 (Topology) | [View](ลิงก์งาน2) |
 | Assignment 3 (Not Simple) | [View](ลิงก์งาน3) |
 | Assignment 4 (TCP-UDP) | [View](ลิงก์งาน3) |
